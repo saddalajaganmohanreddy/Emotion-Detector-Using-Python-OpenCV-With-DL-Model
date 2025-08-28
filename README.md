@@ -1,15 +1,10 @@
-Got it 👍 You don’t want the full code again inside the README, just the **theoretical explanation** (steps + description).
-Here’s a clean **theory-based README.md** for your GitHub repo:
-
----
-
-# 🎭 Real-Time Emotion Detector
+ 🎭 Real-Time Emotion Detector
 
 This project demonstrates how to build a **real-time emotion detection system** using **Python, OpenCV, and a pre-trained deep learning model**. It captures your webcam feed, detects faces, and predicts emotions with percentage probabilities — all running locally on your computer.
 
 ---
 
-## 📚 Features
+ 📚 Features
 
 * Detects human faces using **Haarcascade Classifier**
 * Predicts **7 emotions**: Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral
@@ -18,7 +13,7 @@ This project demonstrates how to build a **real-time emotion detection system** 
 
 ---
 
-## 🛠 Prerequisites
+ 🛠 Prerequisites
 
 To run this project, you’ll need:
 
@@ -30,7 +25,7 @@ To run this project, you’ll need:
 
 ---
 
-## 📂 Project Structure
+ 📂 Project Structure
 
 ```
 Emotion_Detector_ML/
@@ -43,7 +38,7 @@ Emotion_Detector_ML/
 
 ---
 
-## 🪜 How It Works
+ 🪜 How It Works
 
 1. **Face Detection**
 
@@ -61,7 +56,7 @@ Emotion_Detector_ML/
 
 ---
 
-## 🚀 Steps to Run
+ 🚀 Steps to Run
 
 1. **Set Up Environment**
 
@@ -91,7 +86,7 @@ Emotion_Detector_ML/
 
 ---
 
-## 📊 Tech Stack
+ 📊 Tech Stack
 
 * **Python** — programming language
 * **OpenCV** — face detection + video processing
@@ -100,7 +95,7 @@ Emotion_Detector_ML/
 
 ---
 
-## 🎯 Use Cases
+ 🎯 Use Cases
 
 * Real-time **human-computer interaction**
 * **Sentiment analysis** in video calls
